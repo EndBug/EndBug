@@ -1,6 +1,8 @@
 ![EndBug's GitHub stats](https://github-readme-stats.vercel.app/api?username=endbug&show_icons=true)
 ![EndBug's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endbug&layout=compact)
 
+<!--START_SECTION:activity-->
+
 <!--
 **EndBug/EndBug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
