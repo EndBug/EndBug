@@ -4,11 +4,11 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com//dbots-pkg/dbots.js/pull/39) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-2. 🎉 Merged PR [#38](https://github.com//dbots-pkg/dbots.js/pull/38) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-3. 🎉 Merged PR [#7](https://github.com//dbots-pkg/dbothook.js/pull/7) in [dbots-pkg/dbothook.js](https://github.com//dbots-pkg/dbothook.js)
-4. 🎉 Merged PR [#77](https://github.com//EndBug/game-tracker/pull/77) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
-5. 🗣 Commented on [#54](https://github.com//EndBug/add-and-commit/issues/54) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+1. 🎉 Merged PR [#8](https://github.com//dbots-pkg/dbothook.js/pull/8) in [dbots-pkg/dbothook.js](https://github.com//dbots-pkg/dbothook.js)
+2. 🎉 Merged PR [#40](https://github.com//dbots-pkg/dbots.js/pull/40) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+3. 🎉 Merged PR [#76](https://github.com//EndBug/game-tracker/pull/76) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
+4. 🎉 Merged PR [#39](https://github.com//dbots-pkg/dbots.js/pull/39) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+5. 🎉 Merged PR [#38](https://github.com//dbots-pkg/dbots.js/pull/38) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
 <!--END_SECTION:activity-->
 
 <!--
