@@ -16,3 +16,4 @@ jobs:
           NO_DEPENDABOT: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: cat README.md
