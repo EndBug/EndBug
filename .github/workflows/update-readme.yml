@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: EndBug/github-activity-readme@rewrite
+      - uses: EndBug/github-activity-readme@86ea2e50d8a9da482e8abdf46ea421bdbe4d87f9
         with:
           NO_DEPENDABOT: true
         env:
