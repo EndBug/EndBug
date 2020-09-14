@@ -11,6 +11,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v0.3.0
+      - uses: EndBug/github-activity-readme@rewrite
+        with:
+          NO_COMMIT: true
+          NO_DEPENDABOT: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: cat README.md
