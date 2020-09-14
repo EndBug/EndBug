@@ -11,6 +11,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: EndBug/github-activity-readme@no-dependabot
+        with:
+          NO_DEPENDABOT: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
