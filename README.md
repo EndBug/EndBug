@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//EndBug/gsheet-database/pull/1) in [EndBug/gsheet-database](https://github.com//EndBug/gsheet-database)
-2. 🎉 Merged PR [#1](https://github.com//EndBug/api/pull/1) in [EndBug/api](https://github.com//EndBug/api)
-3. 🎉 Merged PR [#17](https://github.com//dbots-pkg/dbothook.js/pull/17) in [dbots-pkg/dbothook.js](https://github.com//dbots-pkg/dbothook.js)
-4. 🎉 Merged PR [#44](https://github.com//dbots-pkg/dbots.js/pull/44) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-5. 🎉 Merged PR [#86](https://github.com//EndBug/game-tracker/pull/86) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
+1. 💪 Opened PR [#33](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient/pull/33) in [FullstackStation/react-native-svg-animated-linear-gradient](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient)
+2. 🗣 Commented on [#146](https://github.com//EndBug/trt-bot/issues/146) in [EndBug/trt-bot](https://github.com//EndBug/trt-bot)
+3. 💪 Opened PR [#33](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient/pull/33) in [FullstackStation/react-native-svg-animated-linear-gradient](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient)
+4. 🗣 Commented on [#146](https://github.com//EndBug/trt-bot/issues/146) in [EndBug/trt-bot](https://github.com//EndBug/trt-bot)
+5. 🗣 Commented on [#54](https://github.com//EndBug/add-and-commit/issues/54) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
