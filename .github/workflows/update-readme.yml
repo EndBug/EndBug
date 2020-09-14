@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: EndBug/github-activity-readme@no-dependabot
+      - uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
           NO_DEPENDABOT: true
         env:
