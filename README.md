@@ -4,11 +4,7 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient/pull/33) in [FullstackStation/react-native-svg-animated-linear-gradient](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient)
-2. 🗣 Commented on [#146](https://github.com//EndBug/trt-bot/issues/146) in [EndBug/trt-bot](https://github.com//EndBug/trt-bot)
-3. 💪 Opened PR [#33](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient/pull/33) in [FullstackStation/react-native-svg-animated-linear-gradient](https://github.com//FullstackStation/react-native-svg-animated-linear-gradient)
-4. 🎉 Merged PR [#4](https://github.com//EndBug/uptime-monitor-public/pull/4) in [EndBug/uptime-monitor-public](https://github.com//EndBug/uptime-monitor-public)
-5. 🎉 Merged PR [#6](https://github.com//EndBug/latest-tag/pull/6) in [EndBug/latest-tag](https://github.com//EndBug/latest-tag)
+
 <!--END_SECTION:activity-->
 
 <!--
