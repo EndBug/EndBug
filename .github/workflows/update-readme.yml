@@ -1,8 +1,6 @@
 name: Update README
 
 on:
-  push:
-    paths: .github/workflows/update-readme.yml
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
