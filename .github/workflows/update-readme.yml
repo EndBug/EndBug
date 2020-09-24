@@ -1,6 +1,8 @@
 name: Update README
 
 on:
+  push:
+    paths: .github/workflows/update-readme.yml
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -11,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: EndBug/github-activity-readme@86ea2e50d8a9da482e8abdf46ea421bdbe4d87f9
+      - uses: EndBug/github-activity-readme@rewrite+comment
         with:
           NO_DEPENDABOT: true
         env:
