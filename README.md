@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#64](https://github.com//EndBug/add-and-commit/issues/64) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. 💬 Commented on [#64](https://github.com//EndBug/add-and-commit/issues/64) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 🎉 Merged PR [#65](https://github.com//EndBug/add-and-commit/pull/65) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💪 Opened PR [#104](https://github.com//Financial-Times/github-label-sync/pull/104) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
-5. 💬 Commented on [#57](https://github.com//dbots-pkg/dbots.js/issues/57) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+1. 🎉 Merged PR [#57](https://github.com//dbots-pkg/dbots.js/pull/57) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+2. ❗️ Closed issue [#55](https://github.com//dbots-pkg/dbots.js/issues/55) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+3. ❗️ Closed issue [#64](https://github.com//EndBug/add-and-commit/issues/64) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 💬 Commented on [#64](https://github.com//EndBug/add-and-commit/issues/64) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 🎉 Merged PR [#65](https://github.com//EndBug/add-and-commit/pull/65) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
