@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48830](https://github.com//DefinitelyTyped/DefinitelyTyped/pull/48830) in [DefinitelyTyped/DefinitelyTyped](https://github.com//DefinitelyTyped/DefinitelyTyped)
-2. 💬 Commented on [#66](https://github.com//EndBug/add-and-commit/issues/66) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. ❗️ Closed issue [#66](https://github.com//EndBug/add-and-commit/issues/66) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. ❗️ Closed issue [#29](https://github.com//EndBug/version-check/issues/29) in [EndBug/version-check](https://github.com//EndBug/version-check)
-5. 💬 Commented on [#29](https://github.com//EndBug/version-check/issues/29) in [EndBug/version-check](https://github.com//EndBug/version-check)
+1. 💬 Commented on [#104](https://github.com//Financial-Times/github-label-sync/issues/104) in [Financial-Times/github-label-sync](https://github.com//Financial-Times/github-label-sync)
+2. 💬 Commented on [#48830](https://github.com//DefinitelyTyped/DefinitelyTyped/issues/48830) in [DefinitelyTyped/DefinitelyTyped](https://github.com//DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#48830](https://github.com//DefinitelyTyped/DefinitelyTyped/pull/48830) in [DefinitelyTyped/DefinitelyTyped](https://github.com//DefinitelyTyped/DefinitelyTyped)
+4. 💬 Commented on [#66](https://github.com//EndBug/add-and-commit/issues/66) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. ❗️ Closed issue [#66](https://github.com//EndBug/add-and-commit/issues/66) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
