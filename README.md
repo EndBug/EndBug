@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#69](https://github.com//EndBug/add-and-commit/issues/69) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. 💬 Commented on [#69](https://github.com//EndBug/add-and-commit/issues/69) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 💬 Commented on [#113](https://github.com//EndBug/game-tracker/issues/113) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
-4. 💬 Commented on [#29](https://github.com//dbots-pkg/dbothook.js/issues/29) in [dbots-pkg/dbothook.js](https://github.com//dbots-pkg/dbothook.js)
-5. 💬 Commented on [#58](https://github.com//dbots-pkg/dbots.js/issues/58) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+1. 💬 Commented on [#75](https://github.com//EndBug/add-and-commit/issues/75) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+2. 🎉 Merged PR [#72](https://github.com//EndBug/add-and-commit/pull/72) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+3. ❗️ Closed issue [#71](https://github.com//EndBug/add-and-commit/issues/71) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 💬 Commented on [#70](https://github.com//EndBug/add-and-commit/issues/70) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. ❗️ Closed issue [#69](https://github.com//EndBug/add-and-commit/issues/69) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
