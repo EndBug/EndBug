@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com//EndBug/add-and-commit/pull/114) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. 💪 Opened PR [#114](https://github.com//EndBug/add-and-commit/pull/114) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 🎉 Merged PR [#111](https://github.com//EndBug/add-and-commit/pull/111) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💪 Opened PR [#111](https://github.com//EndBug/add-and-commit/pull/111) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-5. 💬 Commented on [#110](https://github.com//EndBug/add-and-commit/issues/110) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+1. 💬 Commented on [#113](https://github.com//EndBug/add-and-commit/issues/113) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+2. 🎉 Merged PR [#114](https://github.com//EndBug/add-and-commit/pull/114) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+3. 💪 Opened PR [#114](https://github.com//EndBug/add-and-commit/pull/114) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 🎉 Merged PR [#111](https://github.com//EndBug/add-and-commit/pull/111) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 💪 Opened PR [#111](https://github.com//EndBug/add-and-commit/pull/111) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
