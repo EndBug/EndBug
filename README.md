@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//EndBug/github-label-sync/pull/1) in [EndBug/github-label-sync](https://github.com//EndBug/github-label-sync)
-2. 💪 Opened PR [#1](https://github.com//EndBug/github-label-sync/pull/1) in [EndBug/github-label-sync](https://github.com//EndBug/github-label-sync)
-3. 🎉 Merged PR [#81](https://github.com//dbots-pkg/dbots.js/pull/81) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-4. ❗️ Closed issue [#71](https://github.com//dbots-pkg/dbots.js/issues/71) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-5. 💪 Opened PR [#81](https://github.com//dbots-pkg/dbots.js/pull/81) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+1. ❌ Closed PR [#62](https://github.com//dbots-pkg/dbots.js/pull/62) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+2. 💬 Commented on [#62](https://github.com//dbots-pkg/dbots.js/issues/62) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+3. 💪 Opened PR [#98](https://github.com//dbots-pkg/dbots.js/pull/98) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+4. 🎉 Merged PR [#1](https://github.com//EndBug/github-label-sync/pull/1) in [EndBug/github-label-sync](https://github.com//EndBug/github-label-sync)
+5. 💪 Opened PR [#1](https://github.com//EndBug/github-label-sync/pull/1) in [EndBug/github-label-sync](https://github.com//EndBug/github-label-sync)
 <!--END_SECTION:activity-->
