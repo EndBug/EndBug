@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com//dbots-pkg/dbots.js/pull/153) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-2. 💬 Commented on [#58](https://github.com//dbots-pkg/dbots.js/issues/58) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-3. 🎉 Merged PR [#152](https://github.com//dbots-pkg/dbots.js/pull/152) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-4. 💪 Opened PR [#152](https://github.com//dbots-pkg/dbots.js/pull/152) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-5. 💬 Commented on [#39](https://github.com//EndBug/version-check/issues/39) in [EndBug/version-check](https://github.com//EndBug/version-check)
+1. 🎉 Merged PR [#153](https://github.com//dbots-pkg/dbots.js/pull/153) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+2. 💪 Opened PR [#153](https://github.com//dbots-pkg/dbots.js/pull/153) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+3. 💬 Commented on [#58](https://github.com//dbots-pkg/dbots.js/issues/58) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+4. 🎉 Merged PR [#152](https://github.com//dbots-pkg/dbots.js/pull/152) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+5. 💪 Opened PR [#152](https://github.com//dbots-pkg/dbots.js/pull/152) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
 <!--END_SECTION:activity-->
