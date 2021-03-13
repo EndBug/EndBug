@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#594](https://github.com//steveukx/git-js/issues/594) in [steveukx/git-js](https://github.com//steveukx/git-js)
-2. 💬 Commented on [#594](https://github.com//steveukx/git-js/issues/594) in [steveukx/git-js](https://github.com//steveukx/git-js)
-3. ❗️ Closed issue [#146](https://github.com//EndBug/add-and-commit/issues/146) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💬 Commented on [#146](https://github.com//EndBug/add-and-commit/issues/146) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-5. ❗️ Opened issue [#594](https://github.com//steveukx/git-js/issues/594) in [steveukx/git-js](https://github.com//steveukx/git-js)
+1. 💬 Commented on [#3](https://github.com//S4RB/add-and-commit/issues/3) in [S4RB/add-and-commit](https://github.com//S4RB/add-and-commit)
+2. ❗️ Closed issue [#594](https://github.com//steveukx/git-js/issues/594) in [steveukx/git-js](https://github.com//steveukx/git-js)
+3. 💬 Commented on [#594](https://github.com//steveukx/git-js/issues/594) in [steveukx/git-js](https://github.com//steveukx/git-js)
+4. ❗️ Closed issue [#146](https://github.com//EndBug/add-and-commit/issues/146) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 💬 Commented on [#146](https://github.com//EndBug/add-and-commit/issues/146) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
