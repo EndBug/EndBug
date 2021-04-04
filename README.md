@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#156](https://github.com//EndBug/add-and-commit/pull/156) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+1. ❗️ Closed issue [#154](https://github.com//EndBug/add-and-commit/issues/154) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 2. 💬 Commented on [#154](https://github.com//EndBug/add-and-commit/issues/154) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 💬 Commented on [#155](https://github.com//EndBug/add-and-commit/issues/155) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 🎉 Merged PR [#186](https://github.com//dbots-pkg/dbots.js/pull/186) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-5. 💪 Opened PR [#137](https://github.com//JasonEtco/actions-toolkit/pull/137) in [JasonEtco/actions-toolkit](https://github.com//JasonEtco/actions-toolkit)
+3. 🎉 Merged PR [#156](https://github.com//EndBug/add-and-commit/pull/156) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 💬 Commented on [#155](https://github.com//EndBug/add-and-commit/issues/155) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 🎉 Merged PR [#186](https://github.com//dbots-pkg/dbots.js/pull/186) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
 <!--END_SECTION:activity-->
