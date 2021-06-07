@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💬 Commented on [#2](https://github.com//EndBug/label-sync/issues/2) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
-2. 💬 Commented on [#245](https://github.com//EndBug/game-tracker/issues/245) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
-3. 💪 Opened PR [#819](https://github.com//actions/toolkit/pull/819) in [actions/toolkit](https://github.com//actions/toolkit)
-4. 💬 Commented on [#200](https://github.com//EndBug/add-and-commit/issues/200) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-5. 💬 Commented on [#238](https://github.com//EndBug/game-tracker/issues/238) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
+1. 🎉 Merged PR [#246](https://github.com//dbots-pkg/dbots.js/pull/246) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+2. 💪 Opened PR [#246](https://github.com//dbots-pkg/dbots.js/pull/246) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+3. 💬 Commented on [#243](https://github.com//dbots-pkg/dbots.js/issues/243) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+4. 💬 Commented on [#3](https://github.com//EndBug/label-sync/issues/3) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+5. 💬 Commented on [#2](https://github.com//EndBug/label-sync/issues/2) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
 <!--END_SECTION:activity-->
