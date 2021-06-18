@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💬 Commented on [#217](https://github.com//EndBug/add-and-commit/issues/217) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. ❗️ Closed issue [#216](https://github.com//EndBug/add-and-commit/issues/216) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 💬 Commented on [#216](https://github.com//EndBug/add-and-commit/issues/216) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💬 Commented on [#56](https://github.com//EndBug/uptime-monitor/issues/56) in [EndBug/uptime-monitor](https://github.com//EndBug/uptime-monitor)
-5. 💬 Commented on [#249](https://github.com//dbots-pkg/dbots.js/issues/249) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+1. 💬 Commented on [#2](https://github.com//EndBug/label-sync/issues/2) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+2. 💬 Commented on [#217](https://github.com//EndBug/add-and-commit/issues/217) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+3. ❗️ Closed issue [#216](https://github.com//EndBug/add-and-commit/issues/216) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 💬 Commented on [#216](https://github.com//EndBug/add-and-commit/issues/216) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 💬 Commented on [#56](https://github.com//EndBug/uptime-monitor/issues/56) in [EndBug/uptime-monitor](https://github.com//EndBug/uptime-monitor)
 <!--END_SECTION:activity-->
