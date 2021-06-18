@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💬 Commented on [#52](https://github.com//EndBug/version-check/issues/52) in [EndBug/version-check](https://github.com//EndBug/version-check)
-2. 💬 Commented on [#46](https://github.com//EndBug/version-check/issues/46) in [EndBug/version-check](https://github.com//EndBug/version-check)
-3. 🎉 Merged PR [#4](https://github.com//EndBug/label-sync/pull/4) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
-4. 🎉 Merged PR [#246](https://github.com//dbots-pkg/dbots.js/pull/246) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-5. 💪 Opened PR [#246](https://github.com//dbots-pkg/dbots.js/pull/246) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+1. 💬 Commented on [#19](https://github.com//EndBug/label-sync/issues/19) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+2. 💬 Commented on [#52](https://github.com//EndBug/version-check/issues/52) in [EndBug/version-check](https://github.com//EndBug/version-check)
+3. 💬 Commented on [#46](https://github.com//EndBug/version-check/issues/46) in [EndBug/version-check](https://github.com//EndBug/version-check)
+4. 🎉 Merged PR [#4](https://github.com//EndBug/label-sync/pull/4) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+5. 🎉 Merged PR [#246](https://github.com//dbots-pkg/dbots.js/pull/246) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
 <!--END_SECTION:activity-->
