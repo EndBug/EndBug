@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//EndBug/label-sync/pull/2) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
-2. ❗️ Closed issue [#1](https://github.com//EndBug/label-sync/issues/1) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
-3. 💬 Commented on [#2](https://github.com//EndBug/label-sync/issues/2) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
-4. 💬 Commented on [#60](https://github.com//danielwerg/r6api.js/issues/60) in [danielwerg/r6api.js](https://github.com//danielwerg/r6api.js)
-5. 💪 Opened PR [#60](https://github.com//danielwerg/r6api.js/pull/60) in [danielwerg/r6api.js](https://github.com//danielwerg/r6api.js)
+1. 💬 Commented on [#3](https://github.com//EndBug/label-sync/issues/3) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+2. 💬 Commented on [#22](https://github.com//EndBug/label-sync/issues/22) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+3. 💬 Commented on [#1](https://github.com//EndBug/label-sync/issues/1) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+4. 🎉 Merged PR [#2](https://github.com//EndBug/label-sync/pull/2) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+5. ❗️ Closed issue [#1](https://github.com//EndBug/label-sync/issues/1) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
 <!--END_SECTION:activity-->
