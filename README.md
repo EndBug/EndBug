@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💬 Commented on [#246](https://github.com//EndBug/add-and-commit/issues/246) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. 💬 Commented on [#252](https://github.com//EndBug/add-and-commit/issues/252) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 💬 Commented on [#251](https://github.com//EndBug/add-and-commit/issues/251) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💬 Commented on [#247](https://github.com//EndBug/add-and-commit/issues/247) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-5. 💬 Commented on [#283](https://github.com//dbots-pkg/dbots.js/issues/283) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+1. 💬 Commented on [#257](https://github.com//EndBug/add-and-commit/issues/257) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+2. 💬 Commented on [#246](https://github.com//EndBug/add-and-commit/issues/246) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+3. 💬 Commented on [#252](https://github.com//EndBug/add-and-commit/issues/252) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 💬 Commented on [#251](https://github.com//EndBug/add-and-commit/issues/251) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 💬 Commented on [#247](https://github.com//EndBug/add-and-commit/issues/247) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
