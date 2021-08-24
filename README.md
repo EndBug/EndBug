@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com//EndBug/add-and-commit/pull/264) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. 💬 Commented on [#263](https://github.com//EndBug/add-and-commit/issues/263) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. 💬 Commented on [#262](https://github.com//EndBug/add-and-commit/issues/262) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💬 Commented on [#296](https://github.com//EndBug/game-tracker/issues/296) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
-5. 💬 Commented on [#294](https://github.com//EndBug/game-tracker/issues/294) in [EndBug/game-tracker](https://github.com//EndBug/game-tracker)
+1. 🎉 Merged PR [#274](https://github.com//EndBug/add-and-commit/pull/274) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+2. 💬 Commented on [#264](https://github.com//EndBug/add-and-commit/issues/264) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+3. ❌ Closed PR [#265](https://github.com//EndBug/add-and-commit/pull/265) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. 🎉 Merged PR [#264](https://github.com//EndBug/add-and-commit/pull/264) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. ❗️ Closed issue [#263](https://github.com//EndBug/add-and-commit/issues/263) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
