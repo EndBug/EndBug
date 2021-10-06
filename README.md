@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//BotsForDiscord/bfddocs/issues/2) in [BotsForDiscord/bfddocs](https://github.com//BotsForDiscord/bfddocs)
-2. 🎉 Merged PR [#294](https://github.com//EndBug/add-and-commit/pull/294) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-3. ❗️ Closed issue [#293](https://github.com//EndBug/add-and-commit/issues/293) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💬 Commented on [#300](https://github.com//EndBug/add-and-commit/issues/300) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-5. 💬 Commented on [#108](https://github.com//EndBug/version-check/issues/108) in [EndBug/version-check](https://github.com//EndBug/version-check)
+1. ❗️ Opened issue [#332](https://github.com//dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+2. ❗️ Opened issue [#2](https://github.com//BotsForDiscord/bfddocs/issues/2) in [BotsForDiscord/bfddocs](https://github.com//BotsForDiscord/bfddocs)
+3. 🎉 Merged PR [#294](https://github.com//EndBug/add-and-commit/pull/294) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+4. ❗️ Closed issue [#293](https://github.com//EndBug/add-and-commit/issues/293) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 💬 Commented on [#300](https://github.com//EndBug/add-and-commit/issues/300) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
