@@ -4,9 +4,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#333](https://github.com//dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-2. ❗️ Closed issue [#332](https://github.com//dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-3. ❗️ Opened issue [#333](https://github.com//dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-4. ❗️ Opened issue [#332](https://github.com//dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
-5. ❗️ Opened issue [#2](https://github.com//BotsForDiscord/bfddocs/issues/2) in [BotsForDiscord/bfddocs](https://github.com//BotsForDiscord/bfddocs)
+1. 💪 Opened PR [#334](https://github.com//dbots-pkg/dbots.js/pull/334) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+2. ❗️ Closed issue [#333](https://github.com//dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+3. ❗️ Closed issue [#332](https://github.com//dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+4. ❗️ Opened issue [#333](https://github.com//dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
+5. ❗️ Opened issue [#332](https://github.com//dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com//dbots-pkg/dbots.js)
 <!--END_SECTION:activity-->
