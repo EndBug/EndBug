@@ -1,5 +1,7 @@
-![EndBug's GitHub stats](https://github-readme-stats.vercel.app/api?username=endbug&show_icons=true&theme=dark)
-![EndBug's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endbug&layout=compact&theme=dark)
+<div height="180em">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=endbug&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endbug&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
 ## ⚡ Recent Activity
 
