@@ -1,6 +1,6 @@
-<div>
-<img height="180em" width=455 src="https://github-readme-stats.vercel.app/api?username=endbug&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endbug&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&bg_color=0d1117"/>
+<div height="180em">
+    <img display="inline" src="https://github-readme-stats.vercel.app/api?username=endbug&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117" />
+    <img display="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endbug&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&bg_color=0d1117"/>
 </div>
 
 ## ⚡ Recent Activity
