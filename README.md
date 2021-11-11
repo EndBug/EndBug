@@ -3,9 +3,9 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💬 Commented on [#321](https://github.com//EndBug/add-and-commit/issues/321) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-2. 💪 Opened PR [#46](https://github.com//infusion/Fraction.js/pull/46) in [infusion/Fraction.js](https://github.com//infusion/Fraction.js)
-3. 💬 Commented on [#320](https://github.com//EndBug/add-and-commit/issues/320) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-4. 💬 Commented on [#319](https://github.com//EndBug/add-and-commit/issues/319) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
-5. 💬 Commented on [#100](https://github.com//EndBug/add-and-commit/issues/100) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+1. 💬 Commented on [#97](https://github.com//EndBug/label-sync/issues/97) in [EndBug/label-sync](https://github.com//EndBug/label-sync)
+2. 💬 Commented on [#321](https://github.com//EndBug/add-and-commit/issues/321) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+3. 💪 Opened PR [#46](https://github.com//infusion/Fraction.js/pull/46) in [infusion/Fraction.js](https://github.com//infusion/Fraction.js)
+4. 💬 Commented on [#320](https://github.com//EndBug/add-and-commit/issues/320) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
+5. 💬 Commented on [#319](https://github.com//EndBug/add-and-commit/issues/319) in [EndBug/add-and-commit](https://github.com//EndBug/add-and-commit)
 <!--END_SECTION:activity-->
