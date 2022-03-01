@@ -18,6 +18,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#48 feat: support rich text from body</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by EndBug in <span class="repo">instantish/notion-github-action</span></div>
+                                    <div class="comment">
+                                        Alright, the action now updates both the table field and the children
+I haven't added a check regarding the request limits for property values since that part is handled by
+                                        <code>martian</code>
+                                        , which already has an open issue about that: https://github.com/instantish/martian/issues/6
+Unfortunately, it doesn't seem that the Notion API (which is still in beta) has yet added a way to batch block updates and deletions, so right now we have to stick to sending a request for each one. At the moment we're only adding one paragraph block per issue, so the request count is relatively low.
+We also can't detect the blocks that have changed: we would have to send a GET request for each one of them in order to compare them with the updated version, which kind of defeats the purpose...
+The only alternative that comes to mind is to delete and re-create the database entry from scratch every time, but I guess it would mess the links and position in the db, and as of now (with only one child block) it would probably be less efficient.
+Let me know what you think 👍🏻
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -85,25 +111,6 @@ I'll keep this in mind though!
                                 <div class="details">
                                     <div> in <span class="repo">botblock/data</span></div>
                                     <div>2 files changed <span class="code">++10 --9</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#19 Support for metered connections</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by EndBug in <span class="repo">toto04/webeep-sync</span></div>
-                                    <div class="comment">Potentially both: on Windows (and I think on some Linux distros too) you can mark a connection as metered, if it's like a mobile hotspot or, in general, something you want to use strictly for what you need.
-Apps can then see that you're on a metered network and behave accordingly: the OS is not enforcing any restriction on the app, it's just something that programs can see if they want to.
-I know that for Windows this package exists: https://www.npmjs.com/package/@nodert-win10/windows.networking.connectivity (ref https://github.com/electron/electron/issues/8921), I don't know if there's a way for other platforms though</div>
                                 </div>
                             </section>
                         </div>
