@@ -8,6 +8,7 @@ jobs:
   github-readme-stats:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - run: |
           curl "https://github-readme-stats-hui5-awu7i8fa6-endbug.vercel.app/api?username=endbug&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117" > general.svg
           curl "https://github-readme-stats-hui5-awu7i8fa6-endbug.vercel.app/api/top-langs/?username=endbug&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&exclude_repo=POLIMI-FINFO" > languages.svg
