@@ -121,7 +121,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="193.36"
+          width="193.37"
           height="8"
           fill="#3178c6"
         />
@@ -129,7 +129,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="193.36"
+          x="193.37"
           y="0"
           width="35.04"
           height="8"
@@ -139,7 +139,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="228.4"
+          x="228.41"
           y="0"
           width="24.32"
           height="8"
@@ -149,7 +149,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="252.72"
+          x="252.73"
           y="0"
           width="15.62"
           height="8"
@@ -159,7 +159,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="268.34"
+          x="268.34999999999997"
           y="0"
           width="13.45"
           height="8"
@@ -169,7 +169,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="281.78999999999996"
+          x="281.79999999999995"
           y="0"
           width="19.95"
           height="8"
@@ -179,7 +179,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="291.73999999999995"
+          x="291.74999999999994"
           y="0"
           width="15.530000000000001"
           height="8"
@@ -189,7 +189,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="297.2699999999999"
+          x="297.2799999999999"
           y="0"
           width="12.73"
           height="8"
@@ -202,7 +202,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 64.45%
+        TypeScript 64.46%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
