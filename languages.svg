@@ -1,8 +1,8 @@
 
       <svg
-        width="350"
+        width="300"
         height="190"
-        viewBox="0 0 350 190"
+        viewBox="0 0 300 190"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -37,6 +37,14 @@
         width: 100%;
       }
     }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
       fill: #9f9f9f;
@@ -54,24 +62,24 @@
     
 
           
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
       }
-      to {
-        transform: translate(-5px, 5px) scale(1);
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
       }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+    
           
         </style>
 
@@ -84,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="349"
+          width="299"
           fill="#0d1117"
           stroke-opacity="0"
         />
@@ -112,16 +120,17 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <mask id="rect-mask">
-      <rect x="0" y="0" width="300" height="8" fill="white" rx="5"/>
-    </mask>
-    
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+        </mask>
+        
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="224.56"
+          width="187.13"
           height="8"
           fill="#f1e05a"
         />
@@ -129,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="224.56"
+          x="187.13"
           y="0"
-          width="16.99"
+          width="14.16"
           height="8"
           fill="#555555"
         />
@@ -139,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.55"
+          x="201.29"
           y="0"
-          width="15.27"
+          width="12.73"
           height="8"
           fill="#f34b7d"
         />
@@ -149,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="256.82"
+          x="214.01999999999998"
           y="0"
-          width="14.41"
+          width="12"
           height="8"
           fill="#3572A5"
         />
@@ -159,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="271.23"
+          x="226.01999999999998"
           y="0"
-          width="13.05"
+          width="10.87"
           height="8"
           fill="#e34c26"
         />
@@ -169,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="284.28000000000003"
+          x="236.89"
           y="0"
-          width="19.009999999999998"
+          width="17.509999999999998"
           height="8"
           fill="#563d7c"
         />
@@ -179,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="293.29"
+          x="244.39999999999998"
           y="0"
-          width="14.76"
+          width="13.97"
           height="8"
           fill="#3178c6"
         />
@@ -189,14 +198,14 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="298.05"
+          x="248.36999999999998"
           y="0"
-          width="11.96"
+          width="11.629999999999999"
           height="8"
           fill="#c6538c"
         />
       
-
+      
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
