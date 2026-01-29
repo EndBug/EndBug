@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Federico Grandi's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1529, Total Commits  : 7367, Total PRs: 498, Total Issues: 271, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 1529, Total Commits  : 7368, Total PRs: 498, Total Issues: 271, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.7620442188317407;
+        stroke-dashoffset: 3.7618683958722237;
       }
     }
   
