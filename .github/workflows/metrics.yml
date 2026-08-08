@@ -8,11 +8,11 @@ jobs:
   github-readme-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
       - run: |
           curl "https://github-readme-stats-hui5.vercel.app/api?username=endbug&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117" > general.svg
           curl "https://github-readme-stats-hui5.vercel.app/api/top-langs/?username=endbug&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&size_weight=0.2&count_weight=0.8&langs_count=10&layout=compact" > languages.svg
-      - uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v11
         with:
           add: ./*.svg
           message: Update github-readme-stats
@@ -20,7 +20,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@44d1cb79e207421a78b6e02d21f3c3d80829184f
+      - uses: gh-metrics/metrics@1a5109cfed6faf59ffe606435b73006ca76b0e4d
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
