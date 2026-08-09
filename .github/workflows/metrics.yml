@@ -20,7 +20,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: gh-metrics/metrics@1a5109cfed6faf59ffe606435b73006ca76b0e4d
+      - uses: gh-metrics/metrics@3a09c2b37b4120270483019e82fd49f477769204
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
