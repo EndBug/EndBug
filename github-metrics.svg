@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="386" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="298" class="">
     <defs>
         <style/>
     </defs>
@@ -89,24 +89,6 @@ So there's nothing preventing you from GPG-signing a commit, it's just that ther
                                     <div>opened by johanneskastl in <span class="repo">EndBug/add-and-commit</span></div>
                                     <div class="comment">Hi, it's definitely possible: it's not really a feature of the action but of GitHub Actions as a platform. You can either generate the commit message in a previous step and export it as output/env var, or directly substitute values in the action step itself. The best way to do that depends on what you need to do: if you need to use shell commands it's probably best to generate it outside of the action step.
 You can find an example very similar to what you've described here: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands?tool=powershell#environment-files</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5 Harden workflows: pin actions to SHAs, restrict workflow edits</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by MetzinAround in <span class="repo">campus-experts/preview-template</span></div>
-                                    <div class="comment">@MetzinAround Yeah I mean if it's just about pinning the action to a specific commit that's always possible, so there wouldn't be an issue.
-If there are additional requirements to be met feel free to share them and I'll help where I can ;)</div>
                                 </div>
                             </section>
                         </div>
